@@ -1,2 +1,2 @@
 # SicML
-Different frameworks of deep learning, application of neural network (NN) and physics informed neural netwrok(PINN)
+Different frameworks of deep learning, implementation of neural network (NN), and physics informed neural network (PINN)
